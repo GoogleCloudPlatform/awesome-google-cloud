@@ -2,8 +2,8 @@
 
 ## Contributor License Agreements
 
-We'd love to accept your patches! Before we can take them, we have to jump a
-couple of legal hurdles.
+We'd love to accept your awesome suggestions! Before we can take them, we have
+to jump a couple of legal hurdles.
 
 Please fill out either the individual or corporate Contributor License Agreement
 (CLA).
@@ -22,17 +22,19 @@ accept your pull requests.
 
 ## Adding an awesome link to this list
 
-1. Submit an issue describing your proposed change to the repo in question.
-1. The repo owner will respond to your issue promptly.
-1. If your proposed change is accepted, and you haven't already done so, sign a
-   Contributor License Agreement (see details above).
-1. Fork the desired repo, develop and test your code changes.
+1. Sign a Contributor License Agreement (see details above).
+1. Fork the repo, and add the link to the `README.md` file. See [the general
+   instructions for adding something to an awesome
+   list](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list)
+   for more detailed instructions for how to do this.
 1. Submit a pull request.
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
+- Search previous suggestions before making a new one, as yours may be a
+  duplicate.
+- Make sure the list is useful before submitting. That implies it has enough
+  content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
 - Use [title-casing](http://titlecapitalization.com) (AP style).
 - Use the following format: `[List Name](link)`
@@ -40,8 +42,11 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+- The pull request and commit should have a useful title. An example of a
+  useful title would be "Add 'Foobot', a bot running on Kubernetes to reply
+  with a random variable name". This is useful because it includes the name of
+  the awesome thing, how it uses the Google Cloud Platform, and what it does.
+- The body of your commit message should contain a link to the awesome thing.
 
 Thank you for your suggestions!
 

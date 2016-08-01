@@ -1,4 +1,4 @@
-# Awesome Google Cloud [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/GoogleCloudPlatform/awesome-google-cloud.svg?branch=master)](https://travis-ci.org/GoogleCloudPlatform/awesome-google-cloud)
+# Awesome List for Google Cloud Platform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/GoogleCloudPlatform/awesome-google-cloud.svg?branch=master)](https://travis-ci.org/GoogleCloudPlatform/awesome-google-cloud)
 
 A curated list of awesome applications, tools, and resources for the [Google
 Cloud Platform](https://cloud.google.com).  Inspired by [other awesome
@@ -38,14 +38,23 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+
+## Disclaimer
+
+This list is not an official Google product.  Links on this list also are not
+necessarily to official Google products.
+
+
 ## Contributing
 
-See (CONTRIBUTING.md)[CONTRIBUTING.md].
+If you have found or built something awesome that uses the Google Cloud
+Platform, please follow the instructions in (CONTRIBUTING.md)[CONTRIBUTING.md]
+to get it included here.
+
 
 ## Other Awesome Lists
 
-An awesome for awesome lists [awesome](https://github.com/sindresorhus/awesome).
-
+- [Awesome](https://github.com/sindresorhus/awesome) - The awesome for awesomes.
 - [Awesome Firebase](https://github.com/afonsopacifer/awesome-firebase).
 - [Awesome Go](https://github.com/avelino/awesome-go).
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes).
