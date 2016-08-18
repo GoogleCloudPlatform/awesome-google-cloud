@@ -48,7 +48,7 @@ necessarily to official Google products.
 ## Contributing
 
 If you have found or built something awesome that uses the Google Cloud
-Platform, please follow the instructions in (CONTRIBUTING.md)[CONTRIBUTING.md]
+Platform, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md)
 to get it included here.
 
 
