@@ -9,4 +9,7 @@ rvm:
 before_script:
 - gem install awesome_bot
 script:
-- awesome_bot README.md
+- awesome_bot -w https://github.com/sindresorhus/awesome,https://creativecommons.org/licenses/by/4.0/ --allow-redirect README.md
+branches:
+  only:
+  - master
