@@ -11,15 +11,17 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Google Cloud Vision](#google-cloud-vision)
+- [Samples](#samples)
 - [Platforms](#platforms)
-- [License](#license)
-- [Contributing](#contributing)
 - [Other Awesome Lists](#other-awesome-lists)
+- [About This Document](#about-this-document)
+  - [License](#license)
+  - [Disclaimer](#disclaimer)
+  - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## [Google Cloud Vision](https://cloud.google.com/vision/)
+## Samples
 
 - [Bot for Facebook Messenger](https://github.com/jshin49/fb-vision-bot) This
   bot uses the Cloud Vision API to detect faces, labels, landmarks, logos,
@@ -32,26 +34,6 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   Slack integration, running on Google Cloud Platform.
 
 
-## License
-
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-
-
-## Disclaimer
-
-This list is not an official Google product.  Links on this list also are not
-necessarily to official Google products.
-
-
-## Contributing
-
-If you have found or built something awesome that uses the Google Cloud
-Platform, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md)
-to get it included here.
-
-
 ## Other Awesome Lists
 
 - [Awesome](https://github.com/sindresorhus/awesome) - The awesome for awesomes.
@@ -60,3 +42,24 @@ to get it included here.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes).
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow).
 
+
+## About This Document
+
+### License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+
+### Disclaimer
+
+This list is not an official Google product.  Links on this list also are not
+necessarily to official Google products.
+
+
+### Contributing
+
+If you have found or built something awesome that uses the Google Cloud
+Platform, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md)
+to get it included here.
