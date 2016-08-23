@@ -26,6 +26,11 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   text, explicit content, and attributes in images that are sent to it.
 
 
+## [Google Cloud Datastore](https://cloud.google.com/datastore/)
+
+- [Cloud Datastore adapter for the JSData ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore) `js-data-cloud-datastore` is an adapter for [JSData](http://js-data.io), an ORM for Node.js and the browser.
+
+
 ## Platforms
 
 - [Beep Boop](https://beepboophq.com/) An easy way to build and run a scalable
