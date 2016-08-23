@@ -12,6 +12,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 **Table of Contents**
 
 - [Samples](#samples)
+- [Libraries](#libraries)
 - [Platforms](#platforms)
 - [Other Awesome Lists](#other-awesome-lists)
 - [About This Document](#about-this-document)
@@ -26,6 +27,14 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [Bot for Facebook Messenger](https://github.com/jshin49/fb-vision-bot) This
   bot uses the Cloud Vision API to detect faces, labels, landmarks, logos,
   text, explicit content, and attributes in images that are sent to it.
+
+
+## Libraries
+
+- [Cloud Datastore adapter for the JSData
+  ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore)
+  `js-data-cloud-datastore` is an adapter for [JSData](http://js-data.io), an
+  ORM for Node.js and the browser.
 
 
 ## Platforms
