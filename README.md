@@ -35,7 +35,8 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore)
   `js-data-cloud-datastore` is an adapter for [JSData](http://js-data.io), an
   ORM for Node.js and the browser.
-
+- [PSQ](https://github.com/GoogleCloudPlatform/psq) is a distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
+- [Talisman] provides easy security headers (HTTPS, HSTS, and CSP) for [Flask](http://flask.pocoo.org/) applications.
 
 ## Platforms
 
