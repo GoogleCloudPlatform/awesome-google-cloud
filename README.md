@@ -27,6 +27,10 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [Bot for Facebook Messenger](https://github.com/jshin49/fb-vision-bot) This
   bot uses the Cloud Vision API to detect faces, labels, landmarks, logos,
   text, explicit content, and attributes in images that are sent to it.
+- [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) If 
+  you have played the 70s handheld game "Simon" as a child, you know exactly what this is.
+  There are example clients for the Web, IoT (arduino), Android, and command line.
+  Built with [gRPC](grpc.io) for bidirectional streaming and [Kubernetes](k8s.io) for scalability.
 
 
 ## Libraries
