@@ -13,7 +13,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 - [Samples](#samples)
 - [Libraries](#libraries)
-- [Platforms](#platforms)
+- [Slack](#slack)
 - [Other Awesome Lists](#other-awesome-lists)
 - [About This Document](#about-this-document)
   - [License](#license)
@@ -42,11 +42,12 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [PSQ](https://github.com/GoogleCloudPlatform/psq) is a distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
 - [Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) provides easy security headers (HTTPS, HSTS, and CSP) for [Flask](http://flask.pocoo.org/) applications.
 
-## Platforms
+## Slack
 
-- [Beep Boop](https://beepboophq.com/) An easy way to build and run a scalable
+- [Beep Boop](https://beepboophq.com/) - an easy way to build and run a scalable
   Slack integration, running on Google Cloud Platform.
-
+- [SlackEngine](https://github.com/thesandlord/SlackEngine) - a Slack inviter
+  running on Google App Engine.
 
 ## Other Awesome Lists
 
