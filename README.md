@@ -14,6 +14,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [Samples](#samples)
 - [Libraries](#libraries)
 - [Slack](#slack)
+- [Time series](#time-series)
 - [Other Awesome Lists](#other-awesome-lists)
 - [About This Document](#about-this-document)
   - [License](#license)
@@ -48,6 +49,13 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   Slack integration, running on Google Cloud Platform.
 - [SlackEngine](https://github.com/thesandlord/SlackEngine) - a Slack inviter
   running on Google App Engine.
+
+## Time series
+
+- [Heroic](https://github.com/spotify/heroic) - time series database, works with
+  Google Cloud Bigtable as its storage backend.
+- [OpenTSDB](http://opentsdb.net/) - time series database, works with Google
+  Cloud Bigtable as its storage backend.
 
 ## Other Awesome Lists
 
