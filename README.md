@@ -1,10 +1,10 @@
 # Awesome List for Google Cloud Platform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/GoogleCloudPlatform/awesome-google-cloud.svg?branch=master)](https://travis-ci.org/GoogleCloudPlatform/awesome-google-cloud)
 
-A curated list of awesome applications, tools, and resources for the [Google
+A curated list of awesome applications, tools, and resources for [Google
 Cloud Platform](https://cloud.google.com).  Inspired by [other awesome
 projects](https://github.com/sindresorhus/awesome).
 
-If you are new to Google Cloud, there is a [free
+If you are new to Google Cloud Platform, there is a [free
 trial](https://cloud.google.com/free-trial/) to try it out.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -13,7 +13,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 - [Samples](#samples)
 - [Libraries](#libraries)
-- [Platforms](#platforms)
+- [Slack](#slack)
 - [Other Awesome Lists](#other-awesome-lists)
 - [About This Document](#about-this-document)
   - [License](#license)
@@ -25,9 +25,9 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 ## Samples
 
 - [Bot for Facebook Messenger](https://github.com/jshin49/fb-vision-bot) This
-  bot uses the Cloud Vision API to detect faces, labels, landmarks, logos,
+  bot uses the Google Cloud Vision API to detect faces, labels, landmarks, logos,
   text, explicit content, and attributes in images that are sent to it.
-- [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) If 
+- [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) If
   you have played the 70s handheld game "Simon" as a child, you know exactly what this is.
   There are example clients for the Web, IoT (arduino), Android, and command line.
   Built with [gRPC](grpc.io) for bidirectional streaming and [Kubernetes](k8s.io) for scalability.
@@ -42,11 +42,12 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [PSQ](https://github.com/GoogleCloudPlatform/psq) is a distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
 - [Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) provides easy security headers (HTTPS, HSTS, and CSP) for [Flask](http://flask.pocoo.org/) applications.
 
-## Platforms
+## Slack
 
-- [Beep Boop](https://beepboophq.com/) An easy way to build and run a scalable
+- [Beep Boop](https://beepboophq.com/) - an easy way to build and run a scalable
   Slack integration, running on Google Cloud Platform.
-
+- [SlackEngine](https://github.com/thesandlord/SlackEngine) - a Slack inviter
+  running on Google App Engine.
 
 ## Other Awesome Lists
 
@@ -74,6 +75,6 @@ necessarily to official Google products.
 
 ### Contributing
 
-If you have found or built something awesome that uses the Google Cloud
+If you have found or built something awesome that uses Google Cloud
 Platform, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md)
 to get it included here.
