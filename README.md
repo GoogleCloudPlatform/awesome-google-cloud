@@ -34,6 +34,10 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   you have played the 70s handheld game "Simon" as a child, you know exactly what this is.
   There are example clients for the Web, IoT (arduino), Android, and command line.
   Built with [gRPC](grpc.io) for bidirectional streaming and [Kubernetes](k8s.io) for scalability.
+- [Running Parse server on Google App
+  Engine](https://cloud.google.com/nodejs/resources/frameworks/parse-server) -
+  deploy and run Parse server on Google App Engine with a sample Node.js
+  app
 
 ## Libraries
 
