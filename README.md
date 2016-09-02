@@ -13,7 +13,10 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 - [Samples](#samples)
 - [Libraries](#libraries)
+- [Analytics](#analytics)
+- [Big Data](#big-data)
 - [Slack](#slack)
+- [Time series](#time-series)
 - [Other Awesome Lists](#other-awesome-lists)
 - [About This Document](#about-this-document)
   - [License](#license)
@@ -31,7 +34,10 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   you have played the 70s handheld game "Simon" as a child, you know exactly what this is.
   There are example clients for the Web, IoT (arduino), Android, and command line.
   Built with [gRPC](grpc.io) for bidirectional streaming and [Kubernetes](k8s.io) for scalability.
-
+- [Running Parse server on Google App
+  Engine](https://cloud.google.com/nodejs/resources/frameworks/parse-server) -
+  deploy and run Parse server on Google App Engine with a sample Node.js
+  app
 
 ## Libraries
 
@@ -41,6 +47,18 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   ORM for Node.js and the browser.
 - [PSQ](https://github.com/GoogleCloudPlatform/psq) is a distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
 - [Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) provides easy security headers (HTTPS, HSTS, and CSP) for [Flask](http://flask.pocoo.org/) applications.
+- [Scio](https://github.com/spotify/scio) - a Scala API for Google Cloud
+  Dataflow and Apache Beam.
+
+## Analytics
+
+- [Apache Zeppelin](http://zeppelin.apache.org/) - web-based notebook for
+  interactive analytics, works with Google BigQuery
+
+## Big Data
+
+- [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - support for
+  Google BigQuery in Apache Spark, SQL and DataFrames.
 
 ## Slack
 
@@ -48,6 +66,13 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   Slack integration, running on Google Cloud Platform.
 - [SlackEngine](https://github.com/thesandlord/SlackEngine) - a Slack inviter
   running on Google App Engine.
+
+## Time series
+
+- [Heroic](https://github.com/spotify/heroic) - time series database, works with
+  Google Cloud Bigtable as its storage backend.
+- [OpenTSDB](http://opentsdb.net/) - time series database, works with Google
+  Cloud Bigtable as its storage backend.
 
 ## Other Awesome Lists
 
