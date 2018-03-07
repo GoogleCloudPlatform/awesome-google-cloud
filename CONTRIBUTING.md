@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [How to become a contributor](#how-to-become-a-contributor)
+  - [Contributor License Agreements](#contributor-license-agreements)
+  - [Adding an awesome link to this list](#adding-an-awesome-link-to-this-list)
+  - [Adding a heading?](#adding-a-heading)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # How to become a contributor
 
 ## Contributor License Agreements
