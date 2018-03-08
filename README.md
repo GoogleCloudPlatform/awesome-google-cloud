@@ -70,7 +70,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 - [Cloud Datastore adapter for the JSData
   ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore)
-  `js-data-cloud-datastore` is an adapter for [JSData](http://js-data.io), an
+  `js-data-cloud-datastore` is an adapter for [JSData](http://www.js-data.io), an
   ORM for Node.js and the browser.
 
 ## Big Data
