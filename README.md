@@ -73,6 +73,13 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   `js-data-cloud-datastore` is an adapter for [JSData](http://www.js-data.io), an
   ORM for Node.js and the browser.
 
+## Monorepo
+
+### Bazel, gRPC, Protocol Buffers
+
+- [StartupOS](https://github.com/google/startup-os) A monorepo with examples for using
+  Google's Open Source tools and deploying to the cloud.
+
 ## Big Data
 
 ### Apache Beam & Dataflow
