@@ -19,6 +19,8 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [Cloud AI](#cloud-ai)
   - [Cloud Vision API](#cloud-vision-api)
 - [Storage & Databases](#storage--databases)
+- [Monorepo](#monorepo)
+  - [Bazel, gRPC, Protocol Buffers](#bazel-grpc-protocol-buffers)
 - [Big Data](#big-data)
   - [Apache Beam & Dataflow](#apache-beam--dataflow)
   - [Bigtable](#bigtable)
