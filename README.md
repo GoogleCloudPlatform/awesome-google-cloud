@@ -94,7 +94,16 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [Heroic](https://github.com/spotify/heroic) - time series database, works with
   Google Cloud Bigtable as its storage backend.
 - [OpenTSDB](http://opentsdb.net/) - time series database, works with Google
-  Cloud Bigtable as its storage backend.
+  Cloud Bigtable as its storage backend; [deploy it on
+  GKE](https://cloud.google.com/solutions/opentsdb-cloud-platform).
+- [JanusGraph](http://janusgraph.org/) - distributed graph database, works with
+  Google Cloud Bigtable as its storage backend; [deploy it on
+  GKE](https://cloud.google.com/solutions/running-janusgraph-with-bigtable).
+- [TensorFlow](https://www.tensorflow.org/) - machine learning framework,
+  integrates well with Google Cloud Bigtable as both a source and sink for
+  high-performance ML model training; use it with CPU, GPU, and TPU. [Train
+  ResNet-50 model with TensorFlow + Cloud
+  Bigtable](https://cloud.google.com/tpu/docs/tutorials/bigtable-resnet).
 
 ### BigQuery
 
