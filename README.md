@@ -27,6 +27,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   - [Bigtable](#bigtable)
   - [BigQuery](#bigquery)
   - [Pub/Sub](#pubsub)
+- [Interactive Learning Resources](#interactive-learning-resources)
 - [Other Awesome Lists](#other-awesome-lists)
 - [About This Document](#about-this-document)
   - [License](#license)
@@ -121,6 +122,10 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 - [PSQ](https://github.com/GoogleCloudPlatform/psq) is a distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
 
+## Interactive Learning Resources
+- [Qwiklabs](https://google.qwiklabs.com) - Hands-on Lab for learning Cloud Computing and get Badges.
+- [Google Cloud Codelabs](https://codelabs.developers.google.com/cloud) - GCP Codelabs covers topics such as Google Cloud Basics, Compute, Data, Mobile, Monitoring, Machine Learning and Networking.
+- [Play with Kubernetes](https://labs.play-with-k8s.com) - A simple, interactive and fun playground to learn Kubernetes
 
 ## Other Awesome Lists
 
