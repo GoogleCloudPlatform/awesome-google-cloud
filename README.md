@@ -56,7 +56,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) If
   you have played the 70s handheld game "Simon" as a child, you know exactly what this is.
   There are example clients for the Web, IoT (arduino), Android, and command line.
-  Built with [gRPC](grpc.io) for bidirectional streaming and [Kubernetes](k8s.io) for scalability.
+  Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
 
 ### Cross-product
 
