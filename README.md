@@ -41,6 +41,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) - Additional links about GCP including tutorials, solutions and community.
 
 ## Compute
+[Google Compute Engine](https://cloud.google.com/products/compute/) From app platform to containers to VMs, cloud compute tailored to your needs 
 
 ### App Engine
 
@@ -67,6 +68,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   [Flask](http://flask.pocoo.org/) applications.
 
 ## Cloud AI
+[Google Cloud AI](https://cloud.google.com/products/ai/) Fast, large scale, and easy-to-use AI products and services. 
 
 ### Cloud Vision API
 
@@ -75,6 +77,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   text, explicit content, and attributes in images that are sent to it.
 
 ## Storage & Databases
+[Google Cloud Storage](https://cloud.google.com/products/storage/) Storage for all your data needs
 
 - [Cloud Datastore adapter for the JSData
   ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore)
@@ -89,6 +92,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
   Google's Open Source tools and deploying to the cloud.
 
 ## Big Data
+[Google Cloud Big Data](https://cloud.google.com/products/big-data/) Efficiently capture, process, and analyze data with Google Cloud data analytics products. 
 
 ### Apache Beam & Dataflow
 
@@ -123,9 +127,12 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [PSQ](https://github.com/GoogleCloudPlatform/psq) is a distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
 
 ## Interactive Learning Resources
+- [Google Cloud Training Docs](https://cloud.google.com/compute/docs/tutorials) - Google's cloud own practical guide
+- [Google Cloud Community Documentation](https://cloud.google.com/community/tutorials/) - Learn how to use Google Cloud Platform services by following these step-by-step walkthroughs and tutorials submitted from the Google Cloud Platform community. 
 - [Qwiklabs](https://google.qwiklabs.com) - Hands-on Lab for learning Cloud Computing and get Badges.
 - [Google Cloud Codelabs](https://codelabs.developers.google.com/cloud) - GCP Codelabs covers topics such as Google Cloud Basics, Compute, Data, Mobile, Monitoring, Machine Learning and Networking.
 - [Play with Kubernetes](https://labs.play-with-k8s.com) - A simple, interactive and fun playground to learn Kubernetes
+- [Google Cloud Coursera Courses](https://www.coursera.org/googlecloud) - A list of available Google Cloud Courses on Coursera
 
 ## Other Awesome Lists
 
