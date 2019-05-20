@@ -14,6 +14,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [General](#general)
 - [Compute](#compute)
   - [App Engine](#app-engine)
+  - [Cloud Run](https://github.com/steren/awesome-cloudrun)
   - [Kubernetes Engine](#kubernetes-engine)
   - [Cross-product](#cross-product)
     - [Python](#python)
