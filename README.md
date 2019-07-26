@@ -143,6 +143,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes).
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow).
 - [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications).
+- [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
 
 
 ## About This Document
