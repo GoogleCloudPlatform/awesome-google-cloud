@@ -138,13 +138,12 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 ## Other Awesome Lists
 
 - [Awesome](https://github.com/sindresorhus/awesome) - The awesome for awesomes.
-- [Awesome Firebase](https://github.com/afonsopacifer/awesome-firebase).
+- [Awesome Firebase](https://github.com/jthegedus/awesome-firebase).
 - [Awesome Go](https://github.com/avelino/awesome-go).
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes).
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow).
 - [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications).
-- [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild)
-
+- [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild).
 
 ## About This Document
 
