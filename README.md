@@ -46,8 +46,8 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 ### App Engine
 
-- [Running Parse server on Google App Engine](https://cloud.google.com/nodejs/resources/frameworks/parse-server) - Deploy and run Parse server on Google App Engine with a sample Node.js app
-- [SlackEngine](https://github.com/thesandlord/SlackEngine) - a Slack inviter running on Google App Engine.
+- [Running Parse server on Google App Engine](https://cloud.google.com/nodejs/resources/frameworks/parse-server) - Deploy and run Parse server on Google App Engine with a sample Node.js app.
+- [SlackEngine](https://github.com/thesandlord/SlackEngine) - Slack inviter running on Google App Engine.
 
 ### Kubernetes Engine
 
