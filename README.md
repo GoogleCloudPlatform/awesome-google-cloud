@@ -1,11 +1,8 @@
 # Awesome List for Google Cloud Platform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Lint Awesome List](https://github.com/GoogleCloudPlatform/awesome-google-cloud/workflows/Lint%20Awesome%20List/badge.svg)
 
-A curated list of awesome applications, tools, and resources for [Google
-Cloud Platform](https://cloud.google.com). Inspired by [other awesome
-projects](https://github.com/sindresorhus/awesome).
+A curated list of awesome applications, tools, and resources for [Google Cloud Platform](https://cloud.google.com). Inspired by [other awesome projects](https://github.com/sindresorhus/awesome).
 
-If you are new to Google Cloud Platform, there is a [free
-trial](https://cloud.google.com/free-trial/) to try it out.
+If you are new to Google Cloud Platform, there is a [free trial](https://cloud.google.com/free-trial/) to try it out.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -45,91 +42,66 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 ## Compute
 
-[Google Compute Engine](https://cloud.google.com/products/compute/) From app platform to containers to VMs, cloud compute tailored to your needs
+[Google Compute Engine](https://cloud.google.com/products/compute/) - From app platform to containers to VMs, cloud compute tailored to your needs.
 
 ### App Engine
 
-- [Running Parse server on Google App
-  Engine](https://cloud.google.com/nodejs/resources/frameworks/parse-server) -
-  deploy and run Parse server on Google App Engine with a sample Node.js
-  app
-- [SlackEngine](https://github.com/thesandlord/SlackEngine) - a Slack inviter
-  running on Google App Engine.
+- [Running Parse server on Google App Engine](https://cloud.google.com/nodejs/resources/frameworks/parse-server) - Deploy and run Parse server on Google App Engine with a sample Node.js app
+- [SlackEngine](https://github.com/thesandlord/SlackEngine) - a Slack inviter running on Google App Engine.
 
 ### Kubernetes Engine
 
-- [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) If
-  you have played the 70s handheld game "Simon" as a child, you know exactly what this is.
-  There are example clients for the Web, IoT (arduino), Android, and command line.
-  Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
+- [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) - If you have played the 70s handheld game "Simon" as a child, you know exactly what this is. There are example clients for the Web, IoT (arduino), Android, and command line. Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
 
 ### Cross-product
 
 #### Python
 
-- [Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) provides
-  easy security headers (HTTPS, HSTS, and CSP) for
-  [Flask](http://flask.pocoo.org/) applications.
+- [Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - Provides easy security headers (HTTPS, HSTS, and CSP) for [Flask](http://flask.pocoo.org/) applications.
 
 ## Cloud AI
 
-[Google Cloud AI](https://cloud.google.com/products/ai/) Fast, large scale, and easy-to-use AI products and services.
+[Google Cloud AI](https://cloud.google.com/products/ai/) - Fast, large scale, and easy-to-use AI products and services.
 
 ### Cloud Vision API
 
-- [Bot for Facebook Messenger](https://github.com/jshin49/fb-vision-bot) This
-  bot uses the Google Cloud Vision API to detect faces, labels, landmarks, logos,
-  text, explicit content, and attributes in images that are sent to it.
+- [Bot for Facebook Messenger](https://github.com/jshin49/fb-vision-bot) - This bot uses the Google Cloud Vision API to detect faces, labels, landmarks, logos, text, explicit content, and attributes in images that are sent to it.
 
 ## Storage & Databases
 
-[Google Cloud Storage](https://cloud.google.com/products/storage/) Storage for all your data needs
+[Google Cloud Storage](https://cloud.google.com/products/storage/) - Storage for all your data needs
 
-- [Cloud Datastore adapter for the JSData
-  ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore)
-  `js-data-cloud-datastore` is an adapter for [JSData](http://www.js-data.io), an
-  ORM for Node.js and the browser.
+- [Cloud Datastore adapter for the JSData ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore) - `js-data-cloud-datastore` is an adapter for [JSData](http://www.js-data.io), an ORM for Node.js and the browser.
 
 ## Monorepo
 
 ### Bazel, gRPC, Protocol Buffers
 
-- [StartupOS](https://github.com/google/startup-os) A monorepo with examples for using
-  Google's Open Source tools and deploying to the cloud.
+- [StartupOS](https://github.com/google/startup-os) - A monorepo with examples for using Google's Open Source tools and deploying to the cloud.
 
 ## Big Data
 
-[Google Cloud Big Data](https://cloud.google.com/products/big-data/) Efficiently capture, process, and analyze data with Google Cloud data analytics products.
+[Google Cloud Big Data](https://cloud.google.com/products/big-data/) - Efficiently capture, process, and analyze data with Google Cloud data analytics products.
 
 ### Apache Beam & Dataflow
 
-- [Scio](https://github.com/spotify/scio) - a Scala API for Google Cloud
-  Dataflow and Apache Beam.
+- [Scio](https://github.com/spotify/scio) - A Scala API for Google Cloud Dataflow and Apache Beam.
 
 ### Bigtable
 
-- [Heroic](https://github.com/spotify/heroic) - time series database, works with
-  Google Cloud Bigtable as its storage backend.
-- [OpenTSDB](http://opentsdb.net/) - time series database, works with Google
-  Cloud Bigtable as its storage backend; [deploy it on
-  GKE](https://cloud.google.com/solutions/opentsdb-cloud-platform).
-- [JanusGraph](http://janusgraph.org/) - distributed graph database, works with
-  Google Cloud Bigtable as its storage backend; [deploy it on
-  GKE](https://cloud.google.com/solutions/running-janusgraph-with-bigtable).
-- [TensorFlow](https://www.tensorflow.org/) - machine learning framework,
-  integrates well with Google Cloud Bigtable as both a source and sink for
-  high-performance ML model training; use it with CPU, GPU, and TPU. [Train
-  ResNet-50 model with TensorFlow + Cloud
-  Bigtable](https://cloud.google.com/tpu/docs/tutorials/bigtable-resnet).
+- [Heroic](https://github.com/spotify/heroic) - Time series database, works with Google Cloud Bigtable as its storage backend.
+- [OpenTSDB](http://opentsdb.net/) - Time series database, works with Google Cloud Bigtable as its storage backend; [deploy it on GKE](https://cloud.google.com/solutions/opentsdb-cloud-platform).
+- [JanusGraph](http://janusgraph.org/) - Distributed graph database, works with Google Cloud Bigtable as its storage backend; [deploy it on GKE](https://cloud.google.com/solutions/running-janusgraph-with-bigtable).
+- [TensorFlow](https://www.tensorflow.org/) - Machine learning framework, integrates well with Google Cloud Bigtable as both a source and sink for high-performance ML model training; use it with CPU, GPU, and TPU. [Train ResNet-50 model with TensorFlow + Cloud Bigtable](https://cloud.google.com/tpu/docs/tutorials/bigtable-resnet).
 
 ### BigQuery
 
-- [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - support for Google BigQuery in Apache Spark, SQL and DataFrames.
-- [Apache Zeppelin](http://zeppelin.apache.org/) - web-based notebook for interactive analytics, works with Google BigQuery.
+- [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - Support for Google BigQuery in Apache Spark, SQL and DataFrames.
+- [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook for interactive analytics, works with Google BigQuery.
 
 ### Pub/Sub
 
-- [PSQ](https://github.com/GoogleCloudPlatform/psq) is a distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
+- [PSQ](https://github.com/GoogleCloudPlatform/psq) - Distributed task queue for Python inspired by [rq](http://python-rq.org/) using Google Cloud Pub/Sub.
 
 ## Interactive Learning Resources
 
@@ -160,11 +132,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### Disclaimer
 
-This list is not an official Google product. Links on this list also are not
-necessarily to official Google products.
+This list is not an official Google product. Links on this list also are not necessarily to official Google products.
 
 ### Contributing
 
-If you have found or built something awesome that uses Google Cloud
-Platform, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md)
-to get it included here.
+If you have found or built something awesome that uses Google Cloud Platform, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md) to get it included here.
