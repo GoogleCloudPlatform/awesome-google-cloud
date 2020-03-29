@@ -40,7 +40,7 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 ## General
 
-- ["The Google Cloud Developer Cheat Sheet" by Greg Wilson](https://github.com/gregsramblings/google-cloud-4-words) - A list of every product in the Google Cloud family described in 4 words or less
+- ["The Google Cloud Developer Cheat Sheet" by Greg Wilson](https://github.com/gregsramblings/google-cloud-4-words) - A list of every product in the Google Cloud family described in 4 words or less.
 - ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) - Additional links about GCP including tutorials, solutions and community.
 
 ## Compute
@@ -124,10 +124,8 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 ### BigQuery
 
-- [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - support for
-  Google BigQuery in Apache Spark, SQL and DataFrames.
-- [Apache Zeppelin](http://zeppelin.apache.org/) - web-based notebook for
-  interactive analytics, works with Google BigQuery
+- [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - support for Google BigQuery in Apache Spark, SQL and DataFrames.
+- [Apache Zeppelin](http://zeppelin.apache.org/) - web-based notebook for interactive analytics, works with Google BigQuery.
 
 ### Pub/Sub
 
@@ -135,12 +133,12 @@ trial](https://cloud.google.com/free-trial/) to try it out.
 
 ## Interactive Learning Resources
 
-- [Google Cloud Training Docs](https://cloud.google.com/compute/docs/tutorials) - Google's cloud own practical guide
+- [Google Cloud Training Docs](https://cloud.google.com/compute/docs/tutorials) - Google's cloud own practical guide.
 - [Google Cloud Community Documentation](https://cloud.google.com/community/tutorials/) - Learn how to use Google Cloud Platform services by following these step-by-step walkthroughs and tutorials submitted from the Google Cloud Platform community.
 - [Qwiklabs](https://google.qwiklabs.com) - Hands-on Lab for learning Cloud Computing and get Badges.
 - [Google Cloud Codelabs](https://codelabs.developers.google.com/cloud) - GCP Codelabs covers topics such as Google Cloud Basics, Compute, Data, Mobile, Monitoring, Machine Learning and Networking.
-- [Play with Kubernetes](https://labs.play-with-k8s.com) - A simple, interactive and fun playground to learn Kubernetes
-- [Google Cloud Coursera Courses](https://www.coursera.org/googlecloud) - A list of available Google Cloud Courses on Coursera
+- [Play with Kubernetes](https://labs.play-with-k8s.com) - A simple, interactive and fun playground to learn Kubernetes.
+- [Google Cloud Coursera Courses](https://www.coursera.org/googlecloud) - A list of available Google Cloud Courses on Coursera.
 
 ## Other Awesome Lists
 
