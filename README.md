@@ -119,7 +119,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 ## Other Awesome Lists
 
 - [Awesome](https://github.com/sindresorhus/awesome) - The awesome for awesomes.
-- [Awesome Firebase](https://github.com/jthegedus/awesome-firebase) - List of 🔥 Firebase talks, tools, examples & articles! Translations in 🇬🇧 🇷🇺 contributions welcome!
+- [Awesome Firebase](https://github.com/jthegedus/awesome-firebase) - List of 🔥 Firebase talks, tools, examples & articles! Translations in 🇬🇧 🇷🇺 Contributions welcome!
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A curated list of dedicated resources.
