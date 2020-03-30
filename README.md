@@ -15,7 +15,6 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
   - [Cloud Run](#cloud-run)
   - [Kubernetes Engine](#kubernetes-engine)
   - [Cross-product](#cross-product)
-    - [Python](#python)
 - [Cloud AI](#cloud-ai)
   - [Cloud Vision API](#cloud-vision-api)
 - [Storage & Databases](#storage--databases)
