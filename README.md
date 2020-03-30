@@ -1,4 +1,4 @@
-# Awesome List for Google Cloud Platform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Lint Awesome List](https://github.com/GoogleCloudPlatform/awesome-google-cloud/workflows/Lint%20Awesome%20List/badge.svg)
+# Awesome List for Google Cloud Platform [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/GoogleCloudPlatform/awesome-google-cloud/workflows/Lint%20Awesome%20List/badge.svg)
 
 A curated list of awesome applications, tools, and resources for [Google Cloud Platform](https://cloud.google.com). Inspired by [other awesome projects](https://github.com/sindresorhus/awesome).
 
