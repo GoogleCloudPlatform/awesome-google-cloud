@@ -12,7 +12,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 - [General](#general)
 - [Compute](#compute)
   - [App Engine](#app-engine)
-  - [Cloud Run](https://github.com/steren/awesome-cloudrun)
+  - [Cloud Run](#cloud-run)
   - [Kubernetes Engine](#kubernetes-engine)
   - [Cross-product](#cross-product)
     - [Python](#python)
@@ -48,6 +48,10 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 - [Running Parse server on Google App Engine](https://cloud.google.com/nodejs/resources/frameworks/parse-server) - Deploy and run Parse server on Google App Engine with a sample Node.js app.
 - [SlackEngine](https://github.com/thesandlord/SlackEngine) - Slack inviter running on Google App Engine.
+
+### Cloud Run
+
+See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun).
 
 ### Kubernetes Engine
 
