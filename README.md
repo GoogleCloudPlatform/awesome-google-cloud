@@ -57,11 +57,15 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 
 - [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) - If you have played the 70s handheld game "Simon" as a child, you know exactly what this is. There are example clients for the Web, IoT (arduino), Android, and command line. Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
 
-### Cross-product
+## Cross-product
 
-#### Python
+### Python
 
 - [Talisman](https://github.com/GoogleCloudPlatform/flask-talisman) - Provides easy security headers (HTTPS, HSTS, and CSP) for [Flask](http://flask.pocoo.org/) applications.
+
+### Security
+
+- [Forseti](https://forsetisecurity.org/) - Scan your GCP resources to ensure that access controls are set as you intended and protected against unsafe changes.
 
 ## Cloud AI
 
