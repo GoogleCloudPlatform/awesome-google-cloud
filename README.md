@@ -95,7 +95,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 
 ### Apache Beam & Dataflow
 
-- [Dataflow Templates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
+- [Dataflow Templates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks.
 - [Scio](https://github.com/spotify/scio) - A Scala API for Google Cloud Dataflow and Apache Beam.
 
 ### Bigtable
