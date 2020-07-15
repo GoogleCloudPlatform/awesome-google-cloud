@@ -95,6 +95,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 
 ### Apache Beam & Dataflow
 
+- [Dataflow Templates](https://github.com/GoogleCloudPlatform/DataflowTemplates) - Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
 - [Scio](https://github.com/spotify/scio) - A Scala API for Google Cloud Dataflow and Apache Beam.
 
 ### Bigtable
@@ -106,8 +107,9 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 
 ### BigQuery
 
-- [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - Support for Google BigQuery in Apache Spark, SQL and DataFrames.
 - [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook for interactive analytics, works with Google BigQuery.
+- [BigQuery Utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
+- [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - Support for Google BigQuery in Apache Spark, SQL and DataFrames.
 
 ### Pub/Sub
 
