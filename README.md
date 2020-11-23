@@ -10,30 +10,32 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 ## Contents
 
-- [General](#general)
-- [Compute](#compute)
-  - [App Engine](#app-engine)
-  - [Cloud Run](#cloud-run)
-  - [Kubernetes Engine](#kubernetes-engine)
-- [Cross-product](#cross-product)
-  - [Python](#python)
-  - [Security](#security)
-- [Cloud AI](#cloud-ai)
-  - [Cloud Vision API](#cloud-vision-api)
-- [Storage & Databases](#storage--databases)
-- [Monorepo](#monorepo)
-  - [Bazel, gRPC, Protocol Buffers](#bazel-grpc-protocol-buffers)
-- [Big Data](#big-data)
-  - [Apache Beam & Dataflow](#apache-beam--dataflow)
-  - [Bigtable](#bigtable)
-  - [BigQuery](#bigquery)
-  - [Pub/Sub](#pubsub)
-- [Interactive Learning Resources](#interactive-learning-resources)
-- [Other Awesome Lists](#other-awesome-lists)
-- [About This Document](#about-this-document)
-  - [License](#license)
-  - [Disclaimer](#disclaimer)
-  - [Contributing](#contributing)
+- [Awesome Google Cloud Platform ![Awesome](https://awesome.re) !Lint Awesome List](#awesome-google-cloud-platform-awesomehttpsawesomere-lint-awesome-list)
+  - [Contents](#contents)
+  - [General](#general)
+  - [Compute](#compute)
+    - [App Engine](#app-engine)
+    - [Cloud Run](#cloud-run)
+    - [Kubernetes Engine](#kubernetes-engine)
+  - [Cross-product](#cross-product)
+    - [Python](#python)
+    - [Security](#security)
+  - [Cloud AI](#cloud-ai)
+    - [Cloud Vision API](#cloud-vision-api)
+  - [Storage & Databases](#storage--databases)
+  - [Monorepo](#monorepo)
+    - [Bazel, gRPC, Protocol Buffers](#bazel-grpc-protocol-buffers)
+  - [Big Data](#big-data)
+    - [Apache Beam & Dataflow](#apache-beam--dataflow)
+    - [Bigtable](#bigtable)
+    - [BigQuery](#bigquery)
+    - [Pub/Sub](#pubsub)
+  - [Interactive Learning Resources](#interactive-learning-resources)
+  - [Other Awesome Lists](#other-awesome-lists)
+  - [About This Document](#about-this-document)
+    - [License](#license)
+    - [Disclaimer](#disclaimer)
+    - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -58,6 +60,8 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 ### Kubernetes Engine
 
 - [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) - If you have played the 70s handheld game "Simon" as a child, you know exactly what this is. There are example clients for the Web, IoT (arduino), Android, and command line. Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
+
+- [Click to Deploy Charts Repo](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s) - Source for Google Click to Deploy solutions listed on [Google Cloud Marketplace](https://cloud.google.com/marketplace). Provide several examples with detailed READMEs on how-to install in a [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) cluster.
 
 ## Cross-product
 
