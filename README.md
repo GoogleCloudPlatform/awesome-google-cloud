@@ -5,37 +5,36 @@ A curated list of awesome applications, tools, and resources for [Google Cloud P
 
 If you are new to Google Cloud Platform, there is a [free trial](https://cloud.google.com/free-trial/) to try it out.
 
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ## Contents
 
-- [Awesome Google Cloud Platform ![Awesome](https://awesome.re) !Lint Awesome List](#awesome-google-cloud-platform-awesomehttpsawesomere-lint-awesome-list)
-  - [Contents](#contents)
-  - [General](#general)
-  - [Compute](#compute)
-    - [App Engine](#app-engine)
-    - [Cloud Run](#cloud-run)
-    - [Kubernetes Engine](#kubernetes-engine)
-  - [Cross-product](#cross-product)
-    - [Python](#python)
-    - [Security](#security)
-  - [Cloud AI](#cloud-ai)
-    - [Cloud Vision API](#cloud-vision-api)
-  - [Storage & Databases](#storage--databases)
-  - [Monorepo](#monorepo)
-    - [Bazel, gRPC, Protocol Buffers](#bazel-grpc-protocol-buffers)
-  - [Big Data](#big-data)
-    - [Apache Beam & Dataflow](#apache-beam--dataflow)
-    - [Bigtable](#bigtable)
-    - [BigQuery](#bigquery)
-    - [Pub/Sub](#pubsub)
-  - [Interactive Learning Resources](#interactive-learning-resources)
-  - [Other Awesome Lists](#other-awesome-lists)
-  - [About This Document](#about-this-document)
-    - [License](#license)
-    - [Disclaimer](#disclaimer)
-    - [Contributing](#contributing)
+- [General](#general)
+- [Compute](#compute)
+  - [App Engine](#app-engine)
+  - [Cloud Run](#cloud-run)
+  - [Kubernetes Engine](#kubernetes-engine)
+- [Cross-product](#cross-product)
+  - [Python](#python)
+  - [Security](#security)
+- [Cloud AI](#cloud-ai)
+  - [Cloud Vision API](#cloud-vision-api)
+- [Storage & Databases](#storage--databases)
+- [Monorepo](#monorepo)
+  - [Bazel, gRPC, Protocol Buffers](#bazel-grpc-protocol-buffers)
+- [Big Data](#big-data)
+  - [Apache Beam & Dataflow](#apache-beam--dataflow)
+  - [Bigtable](#bigtable)
+  - [BigQuery](#bigquery)
+  - [Pub/Sub](#pubsub)
+- [Interactive Learning Resources](#interactive-learning-resources)
+- [Other Awesome Lists](#other-awesome-lists)
+- [About This Document](#about-this-document)
+  - [License](#license)
+  - [Disclaimer](#disclaimer)
+  - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
