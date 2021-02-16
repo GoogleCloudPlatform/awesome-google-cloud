@@ -1,6 +1,6 @@
-<!--lint ignore no-dead-urls-->
+<!--lint ignore no-dead-urls awesome-license-->
 # Awesome Google Cloud Platform [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/GoogleCloudPlatform/awesome-google-cloud/workflows/Lint%20Awesome%20List/badge.svg)
-
+<!--lint ignore double-link-->
 A curated list of awesome applications, tools, and resources for [Google Cloud Platform](https://cloud.google.com). Inspired by [other awesome projects](https://github.com/sindresorhus/awesome).
 
 If you are new to Google Cloud Platform, there is a [free trial](https://cloud.google.com/free-trial/) to try it out.
@@ -127,7 +127,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 - [Google Cloud Coursera Courses](https://www.coursera.org/googlecloud) - A list of available Google Cloud Courses on Coursera.
 
 ## Other Awesome Lists
-
+<!--lint ignore double-link-->
 - [Awesome](https://github.com/sindresorhus/awesome) - The awesome for awesomes.
 - [Awesome Firebase](https://github.com/jthegedus/awesome-firebase) - List of 🔥 Firebase talks, tools, examples & articles! Translations in 🇬🇧 🇷🇺 Contributions welcome!
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
@@ -135,15 +135,15 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A curated list of dedicated resources.
 - [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) - A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build.
-- [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable) - :zap: Delightful list of Google Bigtable resources, packages and interesting finds.
+- [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable) - Delightful list of Google Bigtable resources, packages and interesting finds.
 
 
 ## About This Document
 
 ### License
-
+<!--lint ignore double-link-->
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
+<!--lint ignore double-link-->
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ### Disclaimer
