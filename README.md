@@ -136,6 +136,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 - [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) - A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build.
 - [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable) - Delightful list of Google Bigtable resources, packages and interesting finds.
+- [Awesome Spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner tools, libraries and more.
 
 
 ## About This Document
