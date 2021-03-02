@@ -65,8 +65,4 @@ Thank you for your suggestions!
 We use [DocToc](https://github.com/thlorenz/doctoc) to maintain the table of
 contents.
 
-    npm install -g doctoc
-
-Command to regenerate table of contents:
-
-    doctoc --title '**Table of Contents**' README.md
+    npx doctoc --title '## Contents' README.md
