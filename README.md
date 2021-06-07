@@ -129,7 +129,6 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 - [Google Cloud Codelabs](https://codelabs.developers.google.com/cloud) - GCP Codelabs covers topics such as Google Cloud Basics, Compute, Data, Mobile, Monitoring, Machine Learning and Networking.
 - [Play with Kubernetes](https://labs.play-with-k8s.com) - A simple, interactive and fun playground to learn Kubernetes.
 - [Google Cloud Coursera Courses](https://www.coursera.org/googlecloud) - A list of available Google Cloud Courses on Coursera.
-- [DORA DevOps Quick Check](https://www.devops-research.com/quickcheck.html) - Measure your team's software delivery performance in less than a minute.
 
 ## Other Awesome Lists
 <!--lint ignore double-link-->
