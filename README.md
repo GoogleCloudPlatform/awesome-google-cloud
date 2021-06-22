@@ -41,6 +41,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 - ["The Google Cloud Developer Cheat Sheet" by Greg Wilson](https://github.com/gregsramblings/google-cloud-4-words) - A list of every product in the Google Cloud family described in 4 words or less.
 - ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) - Additional links about GCP including tutorials, solutions and community.
+- ["Google Cloud courses by Lynn Langit"](https://github.com/lynnlangit/learning-cloud/tree/master/GCP)- index link to 'GCP Essentials', 'gcp-for-bioinformatics', 'GCP ML' and more.  Lynn is the [first Google Cloud GDE (Developer Expert)](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit).
 
 ## Compute
 
