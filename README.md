@@ -44,7 +44,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 ## Compute
 
-[Google Compute Engine](https://cloud.google.com/products/compute/) - From app platform to containers to VMs, cloud compute tailored to your needs.
+- [Google Compute Engine](https://cloud.google.com/products/compute/) - From app platform to containers to VMs, cloud compute tailored to your needs.
 
 ### App Engine
 
@@ -57,12 +57,11 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 ### Cloud Run
 
-See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun).
+- [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun) - an extensive list of awesome Cloud Run applications.
 
 ### Kubernetes Engine
 
 - [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) - If you have played the 70s handheld game "Simon" as a child, you know exactly what this is. There are example clients for the Web, IoT (arduino), Android, and command line. Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
-
 - [Click to Deploy Charts Repo](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s) - Source for Google Click to Deploy solutions listed on [Google Cloud Marketplace](https://cloud.google.com/marketplace). Provide several examples with detailed READMEs on how-to install in a [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) cluster.
 
 ## Cross-product
@@ -77,7 +76,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 
 ## Cloud AI
 
-[Google Cloud AI](https://cloud.google.com/products/ai/) - Fast, large scale, and easy-to-use AI products and services.
+- [Google Cloud AI](https://cloud.google.com/products/ai/) - Fast, large scale, and easy-to-use AI products and services.
 
 ### Cloud Vision API
 
@@ -85,8 +84,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 
 ## Storage & Databases
 
-[Google Cloud Storage](https://cloud.google.com/products/storage/) - Storage for all your data needs
-
+- [Google Cloud Storage](https://cloud.google.com/products/storage/) - Storage for all your data needs
 - [Cloud Datastore adapter for the JSData ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore) - `js-data-cloud-datastore` is an adapter for [JSData](http://www.js-data.io), an ORM for Node.js and the browser.
 
 ## Monorepo
@@ -97,7 +95,7 @@ See the extensive list at [Awesome Cloud Run](https://github.com/steren/awesome-
 
 ## Big Data
 
-[Google Cloud Big Data](https://cloud.google.com/products/big-data/) - Efficiently capture, process, and analyze data with Google Cloud data analytics products.
+- [Google Cloud Big Data](https://cloud.google.com/products/big-data/) - Efficiently capture, process, and analyze data with Google Cloud data analytics products.
 
 ### Apache Beam & Dataflow
 
