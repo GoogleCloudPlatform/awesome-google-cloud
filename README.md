@@ -57,7 +57,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 ### Cloud Run
 
-- [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun) - an extensive list of awesome Cloud Run applications.
+- [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun) - Extensive list of awesome Cloud Run applications.
 
 ### Kubernetes Engine
 
