@@ -84,7 +84,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 ## Storage & Databases
 
-- [Google Cloud Storage](https://cloud.google.com/products/storage/) - Storage for all your data needs
+- [Google Cloud Storage](https://cloud.google.com/products/storage/) - Storage for all your data needs.
 - [Cloud Datastore adapter for the JSData ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore) - `js-data-cloud-datastore` is an adapter for [JSData](http://www.js-data.io), an ORM for Node.js and the browser.
 
 ## Monorepo
