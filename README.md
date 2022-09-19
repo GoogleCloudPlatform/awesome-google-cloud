@@ -119,6 +119,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 ### BigQuery
 
 - [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook for interactive analytics, works with Google BigQuery.
+- [Dekart](https://dekart.xyz/) - Geospatial analysis tool for Google BigQuery based on Kepler.gl.
 - [BigQuery Utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 - [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - Support for Google BigQuery in Apache Spark, SQL and DataFrames.
 
@@ -145,6 +146,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 - [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) - A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build.
 - [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable) - Delightful list of Google Bigtable resources, packages and interesting finds.
+- [Awesome Spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner tools, libraries and more.
 
 
 ## About This Document
