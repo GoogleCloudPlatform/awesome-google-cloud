@@ -115,6 +115,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 - [Apache Zeppelin](http://zeppelin.apache.org/) - Web-based notebook for interactive analytics, works with Google BigQuery.
 - [Dekart](https://dekart.xyz/) - Geospatial analysis tool for Google BigQuery based on Kepler.gl.
+- [SQLtools for BigQuery](https://github.com/evidence-dev/sqltools-bigquery-driver) - VSCode Extension to run queries and explore databases
 - [BigQuery Utils](https://github.com/GoogleCloudPlatform/bigquery-utils) - Useful scripts, udfs, views, and other utilities for migration and data warehouse operations in BigQuery.
 - [Spark-BigQuery](https://github.com/spotify/spark-bigquery) - Support for Google BigQuery in Apache Spark, SQL and DataFrames.
 
