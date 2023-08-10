@@ -40,6 +40,11 @@ accept your pull requests.
    for more detailed instructions for how to do this.
 1. Submit a pull request.
 
+Please assess your proposed addition for the following qualities:
+
+- The resource should be active with recent updates.
+- For projects, there should be multiple contributors. 
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a
