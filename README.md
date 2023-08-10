@@ -55,6 +55,8 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 - [Functions Framework](https://github.com/GoogleCloudPlatform/functions-framework) - An open source set of libraries for writing portable Google Cloud functions.
 
+- [Goblet](https://github.com/anovis/goblet) - An open source library for serverless Python application development using Google Cloud functions.
+
 ### Cloud Run
 
 - [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun) - Extensive list of awesome Cloud Run applications.
