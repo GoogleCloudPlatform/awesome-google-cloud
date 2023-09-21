@@ -68,6 +68,8 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 - [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) - If you have played the 70s handheld game "Simon" as a child, you know exactly what this is. There are example clients for the Web, IoT (arduino), Android, and command line. Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
 - [Click to Deploy Charts Repo](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s) - Source for Google Click to Deploy solutions listed on [Google Cloud Marketplace](https://cloud.google.com/marketplace). Provide several examples with detailed READMEs on how-to install in a [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) cluster.
 
+- [Bank of Anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos/) - Sample HTTP-based web application that simulates a bank's payment processing network. It runs on [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) and showcases many other Google Cloud products such as [Anthos Service Mesh (ASM)](https://cloud.google.com/anthos/service-mesh), [Anthos Config Management (ACM)](https://cloud.google.com/anthos/config-management), [Cloud Operations](https://cloud.google.com/products/operations), [Cloud SQL](https://cloud.google.com/sql/docs), [Cloud Build](https://cloud.google.com/build), and [Cloud Deploy](https://cloud.google.com/deploy).
+
 ## Cross-product
 
 ### Python
