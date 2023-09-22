@@ -15,5 +15,5 @@ jobs:
         with:
           node-version: "12.x"
       - run: |
-          npm install --global awesome-lint@latest
+          npm install --global awesome-lint@0.18.3
           awesome-lint
