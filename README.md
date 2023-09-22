@@ -73,6 +73,9 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 <!--lint ignore double-link-->
 - [Bank of Anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos/) - Sample HTTP-based web application that simulates a bank's payment processing network. It runs on [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) and showcases many other Google Cloud products such as [Anthos Service Mesh (ASM)](https://cloud.google.com/anthos/service-mesh), [Anthos Config Management (ACM)](https://cloud.google.com/anthos/config-management), [Cloud Operations](https://cloud.google.com/products/operations), [Cloud SQL](https://cloud.google.com/sql/docs), [Cloud Build](https://cloud.google.com/build), and [Cloud Deploy](https://cloud.google.com/deploy).
 
+<!--lint ignore double-link-->
+- [Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo/) - Sample gRPC-based web application that simulates an ecommerce store. It runs on [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine), is built of 11 microservices in 5 different languages, and showcases many other Google Cloud products.
+
 ## Cross-product
 
 ### Python
