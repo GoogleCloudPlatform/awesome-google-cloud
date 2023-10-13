@@ -55,6 +55,8 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 - [Functions Framework](https://github.com/GoogleCloudPlatform/functions-framework) - An open source set of libraries for writing portable Google Cloud functions.
 
+- [Goblet](https://github.com/anovis/goblet) - An open source library for serverless Python application development using Google Cloud functions.
+
 ### Cloud Run
 
 - [Awesome Cloud Run](https://github.com/steren/awesome-cloudrun) - Extensive list of awesome Cloud Run applications.
@@ -64,7 +66,15 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 - [GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for validating GKE clusters against configuration best practices.
 
 - [Real-time Simon Says](https://github.com/grpc-ecosystem/grpc-simon-says) - If you have played the 70s handheld game "Simon" as a child, you know exactly what this is. There are example clients for the Web, IoT (arduino), Android, and command line. Built with [gRPC](https://grpc.io) for bidirectional streaming and [Kubernetes](https://kubernetes.io) for scalability.
+
+<!--lint ignore double-link-->
 - [Click to Deploy Charts Repo](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s) - Source for Google Click to Deploy solutions listed on [Google Cloud Marketplace](https://cloud.google.com/marketplace). Provide several examples with detailed READMEs on how-to install in a [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) cluster.
+
+<!--lint ignore double-link-->
+- [Bank of Anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos/) - Sample HTTP-based web application that simulates a bank's payment processing network. It runs on [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine) and showcases many other Google Cloud products such as [Anthos Service Mesh (ASM)](https://cloud.google.com/anthos/service-mesh), [Anthos Config Management (ACM)](https://cloud.google.com/anthos/config-management), [Cloud Operations](https://cloud.google.com/products/operations), [Cloud SQL](https://cloud.google.com/sql/docs), [Cloud Build](https://cloud.google.com/build), and [Cloud Deploy](https://cloud.google.com/deploy).
+
+<!--lint ignore double-link-->
+- [Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo/) - Sample gRPC-based web application that simulates an ecommerce store. It runs on [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine), is built of 11 microservices in 5 different languages, and showcases many other Google Cloud products.
 
 ## Cross-product
 
