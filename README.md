@@ -98,6 +98,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 
 - [Google Cloud Storage](https://cloud.google.com/products/storage/) - Storage for all your data needs.
 - [Cloud Datastore adapter for the JSData ORM](https://github.com/GoogleCloudPlatform/js-data-cloud-datastore) - `js-data-cloud-datastore` is an adapter for [JSData](http://www.js-data.io), an ORM for Node.js and the browser.
+- [Flutter Googel Datastore client](https://github.com/arran4/flutter_google_datastore) - A primative UI for connecting to datastore and datastore emulator for viewing, and modifying data.
 
 ## Monorepo
 
