@@ -76,6 +76,11 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 <!--lint ignore double-link-->
 - [Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo/) - Sample gRPC-based web application that simulates an ecommerce store. It runs on [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine), is built of 11 microservices in 5 different languages, and showcases many other Google Cloud products.
 
+### Pricing
+- [Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator?hl=en) - A newly redesigned Google Cloud Pricing Calculator.
+- [Legacy Google Cloud Pricing Calculator](https://cloud.google.com/products/calculator-legacy) - The previous version of the Google Cloud Pricing Calculator.
+- [Google Compute Engine Instances Comparison](https://cloudprice.net/gcp/compute) - A tool that facilitates the comparison of Google Cloud instance types, savings options, regions, and price/performance among other features.
+
 ## Cross-product
 
 ### Python
