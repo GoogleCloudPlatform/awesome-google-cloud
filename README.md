@@ -1,9 +1,9 @@
 <!--lint ignore no-dead-urls awesome-license-->
 # Awesome Google Cloud Platform [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint ignore double-link-->
-
 [<img src="google-cloud-logo.svg" align="right" width="300">](https://cloud.google.com)
 
+<!--lint ignore double-link-->
 A curated list of awesome applications, tools, and resources for [Google Cloud Platform](https://cloud.google.com).
 
 If you are new to Google Cloud Platform, there is a [free trial](https://cloud.google.com/free-trial/) to try it out.
