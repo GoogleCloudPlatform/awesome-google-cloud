@@ -1,12 +1,12 @@
 <!--lint ignore no-dead-urls awesome-license-->
-# Awesome Google Cloud Platform [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Google Cloud [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint ignore double-link-->
 [<img src="google-cloud-logo.svg" align="right" width="300">](https://cloud.google.com)
 
 <!--lint ignore double-link-->
-A curated list of awesome applications, tools, and resources for [Google Cloud Platform](https://cloud.google.com).
+A curated list of awesome applications, tools, and resources for [Google Cloud](https://cloud.google.com).
 
-If you are new to Google Cloud Platform, there is a [free trial](https://cloud.google.com/free-trial/) to try it out.
+If you are new to Google Cloud, there is a [free trial](https://cloud.google.com/free-trial/) to try it out.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -139,7 +139,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 ## Interactive Learning Resources
 
 - [Google Cloud Training Docs](https://cloud.google.com/compute/docs/tutorials) - Google's cloud own practical guide.
-- [Google Cloud Community Documentation](https://cloud.google.com/community/tutorials/) - Learn how to use Google Cloud Platform services by following these step-by-step walkthroughs and tutorials submitted from the Google Cloud Platform community.
+- [Google Cloud Community Documentation](https://cloud.google.com/community/tutorials/) - Learn how to use Google Cloud services by following these step-by-step walkthroughs and tutorials submitted from the Google Cloud community.
 - [Qwiklabs](https://google.qwiklabs.com) - Hands-on Lab for learning Cloud Computing and get Badges.
 - [Google Cloud Codelabs](https://codelabs.developers.google.com/cloud) - GCP Codelabs covers topics such as Google Cloud Basics, Compute, Data, Mobile, Monitoring, Machine Learning and Networking.
 - [Play with Kubernetes](https://labs.play-with-k8s.com) - A simple, interactive and fun playground to learn Kubernetes.
@@ -152,7 +152,7 @@ If you are new to Google Cloud Platform, there is a [free trial](https://cloud.g
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉.
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A curated list of dedicated resources.
-- [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) - A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it.
+- [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) - A curated list of resources for learning about Google Cloud certifications and how to prepare for it.
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild) - A curated list of resources about all things Google Cloud Build.
 - [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable) - Delightful list of Google Bigtable resources, packages and interesting finds.
 - [Awesome Spanner](https://github.com/rakyll/awesome-spanner) - A curated list of awesome Google Cloud Spanner tools, libraries and more.
@@ -172,4 +172,4 @@ This list is not an official Google product. Links on this list also are not nec
 
 ### Contributing
 
-If you have found or built something awesome that uses Google Cloud Platform, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md) to get it included here.
+If you have found or built something awesome that uses Google Cloud, please follow the instructions in [CONTRIBUTING.md](CONTRIBUTING.md) to get it included here.
