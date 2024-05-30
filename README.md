@@ -6,6 +6,8 @@
 <!--lint ignore double-link-->
 A curated list of awesome applications, tools, and resources for [Google Cloud](https://cloud.google.com).
 
+Google Cloud is a suite of modular cloud services including computing, data storage, data analytics, and machine learning, alongside a set of management tools.
+
 If you are new to Google Cloud, there is a [free trial](https://cloud.google.com/free-trial/) to try it out.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
